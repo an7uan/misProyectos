@@ -1,2 +1,0 @@
-# misProyectos
-Desarrollo de proyectos
